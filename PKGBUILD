@@ -1,3 +1,4 @@
+# Maintainer: Joseph Diza <josephm.diza@gmail.com>
 pkgname=logc-git
 pkgver=1.f9ea349
 pkgrel=1
