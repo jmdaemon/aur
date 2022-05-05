@@ -10,3 +10,6 @@
 [submodule "aur.archlinux.org/python-wora-git"]
 	path = aur.archlinux.org/python-wora-git
 	url = ssh://aur@aur.archlinux.org/python-wora-git.git
+[submodule "aur.archlinux.org/python-clopy-git"]
+	path = aur.archlinux.org/python-clopy-git
+	url = ssh://aur@aur.archlinux.org/python-clopy-git.git
