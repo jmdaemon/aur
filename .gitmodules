@@ -1,0 +1,3 @@
+[submodule "aur.archlinux.org/logc-git"]
+	path = aur.archlinux.org/logc-git
+	url = ssh://aur@aur.archlinux.org/logc-git.git
