@@ -7,3 +7,6 @@
 [submodule "aur.archlinux.org/bytesize-git"]
 	path = aur.archlinux.org/bytesize-git
 	url = ssh://aur@aur.archlinux.org/bytesize-git.git
+[submodule "aur.archlinux.org/python-wora-git"]
+	path = aur.archlinux.org/python-wora-git
+	url = ssh://aur@aur.archlinux.org/python-wora-git.git
