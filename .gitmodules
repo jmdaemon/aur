@@ -1,3 +1,6 @@
 [submodule "aur.archlinux.org/logc-git"]
 	path = aur.archlinux.org/logc-git
 	url = ssh://aur@aur.archlinux.org/logc-git.git
+[submodule "aur.archlinux.org/marwaita-icons-git"]
+	path = aur.archlinux.org/marwaita-icons-git
+	url = ssh://aur@aur.archlinux.org/marwaita-icons-git.git
