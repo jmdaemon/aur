@@ -4,3 +4,6 @@
 [submodule "aur.archlinux.org/marwaita-icons-git"]
 	path = aur.archlinux.org/marwaita-icons-git
 	url = ssh://aur@aur.archlinux.org/marwaita-icons-git.git
+[submodule "aur.archlinux.org/bytesize-git"]
+	path = aur.archlinux.org/bytesize-git
+	url = ssh://aur@aur.archlinux.org/bytesize-git.git
