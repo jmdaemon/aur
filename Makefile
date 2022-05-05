@@ -1,5 +1,7 @@
+build-srcinfo:
+	makepkg --printsrcinfo > .SRCINFO
 
-build:
+build: build-srcinfo
 	makepkg -si
 
 clean:
