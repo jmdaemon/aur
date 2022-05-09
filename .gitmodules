@@ -22,3 +22,6 @@
 [submodule "aur.archlinux.org/treeleaves-git"]
 	path = aur.archlinux.org/treeleaves-git
 	url = ssh://aur@aur.archlinux.org/treeleaves-git.git
+[submodule "aur.archlinux.org/python-difftime-git"]
+	path = aur.archlinux.org/python-difftime-git
+	url = ssh://aur@aur.archlinux.org/python-difftime-git.git
