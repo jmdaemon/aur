@@ -16,3 +16,6 @@
 [submodule "aur.archlinux.org/python-sapply-git"]
 	path = aur.archlinux.org/python-sapply-git
 	url = ssh://aur@aur.archlinux.org/python-sapply-git.git
+[submodule "aur.archlinux.org/alphasort-git"]
+	path = aur.archlinux.org/alphasort-git
+	url = ssh://aur@aur.archlinux.org/alphasort-git.git
